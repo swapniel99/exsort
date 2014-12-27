@@ -1,0 +1,6 @@
+test.bin
+out.bin
+3
+8 -7 6
+8192
+
